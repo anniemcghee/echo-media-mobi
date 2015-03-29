@@ -1,0 +1,6 @@
+[09-Dec-2014 12:42:47 America/New_York] PHP Warning:  preg_match(): No ending delimiter '^' found in /home/echormev/public_html/send_form_email.php on line 74
+[09-Dec-2014 12:43:09 America/New_York] PHP Warning:  preg_match(): No ending delimiter '^' found in /home/echormev/public_html/send_form_email.php on line 74
+[09-Dec-2014 15:52:46 America/New_York] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/echormev/public_html/send_form_email.php on line 196
+[19-Jan-2015 15:59:23 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/echormev/public_html/contact.php on line 111
+[19-Jan-2015 15:59:42 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/echormev/public_html/contact.php on line 111
+[19-Jan-2015 16:00:03 America/New_York] PHP Fatal error:  Can't use function return value in write context in /home/echormev/public_html/contact.php on line 111
