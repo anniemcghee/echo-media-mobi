@@ -36,14 +36,15 @@ p {
     line-height: 1.5;
 }
 
-#contactModal:target {
+/*Not necessary - no contact modal*/
+/*#contactModal:target {
       opacity: 1;
       display: block;
       padding: 50px 0px 20px 0px;
       margin-left: auto;
       margin-right: auto;
       text-align: center;
-}
+}*/
 
 #betaModal:target {
       opacity: 1;
@@ -193,7 +194,7 @@ p {
             border-radius: 8px;
     }
 .popover{
-    max-width: 80%; // Max Width of the popover (depending on the container!)
+    max-width: 80%;/* // Max Width of the popover (depending on the container!)*/
 }
 
 @media(min-width:767px) {
@@ -278,10 +279,10 @@ a:focus {
 .navbar-custom .nav li a.active {
     outline: 0;
     background-color: #00A4A0;
-    
+
 }
 
-@media(min-width:767px) {
+/*@media(min-width:767px) {
     .navbar {
         padding: 20px 0;
         border-bottom: 0;
@@ -306,7 +307,7 @@ a:focus {
     #navSocButtons {
         display: none;
     }
-}
+}*/
 
 .intro {
     display: table;
@@ -337,7 +338,7 @@ a:focus {
 }
 
 
-@media(min-width:767px) {
+/*@media(min-width:767px) {
     .intro {
         height: 100%;
         padding: 0;
@@ -350,7 +351,7 @@ a:focus {
     .intro .intro-body .intro-text {
         font-size: 25px;
     }
-}
+}*/
 
 .btn-circle {
     width: 70px;
@@ -396,7 +397,7 @@ a:focus {
     -webkit-filter: drop-shadow(13px 13px 20px black);
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -413,7 +414,7 @@ a:focus {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -522,18 +523,18 @@ a:focus {
 }
 
 ul.banner-social-buttons {
-    margin-top: 0;
+    margin-top: 15px;
 }
 
-@media(max-width:1199px) {
+/*@media(max-width:1199px) {
     ul.banner-social-buttons {
         margin-top: 15px;
     }
-}
+}*/
 
-@media(max-width:767px) {
+/*@media(max-width:767px) {
     ul.banner-social-buttons li {
-        display: block;
+        display: inline;
         margin-bottom: 20px;
         padding: 0;
     }
@@ -541,7 +542,7 @@ ul.banner-social-buttons {
     ul.banner-social-buttons li:last-child {
         margin-bottom: 0;
     }
-}
+}*/
 
 footer {
     padding: 50px 0;
