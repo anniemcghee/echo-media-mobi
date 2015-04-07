@@ -546,11 +546,15 @@ ul.banner-social-buttons {
 
 footer {
     padding: 50px 0;
+    background-color: #EBEBEB;
 }
 
 footer p {
     margin: 0;
+    font-size:small;
+    color:#909090
 }
+
 
 ::-moz-selection {
     text-shadow: none;
