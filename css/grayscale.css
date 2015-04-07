@@ -613,4 +613,7 @@ body {
 
 .btn-primary {
     font-size:1.7em;
+    color: #fff;
+    background-color: #CC9900;
+    border-color: #664C00;
 }
