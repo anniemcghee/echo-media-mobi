@@ -610,3 +610,7 @@ body {
         padding-bottom: 10px;
     }
 }
+
+.btn-primary {
+    font-size:1.7em;
+}
