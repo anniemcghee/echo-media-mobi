@@ -60,28 +60,6 @@ jQuery(function($) {
     container: 'body',
     placement: 'bottom'
     });
- //   jQuery("body").on("click",".popover-markup",function(){
- //       $(this).popover();
- //       $(".popover-markup").not(this).popover("hide"); //hide other popovers
- //       return false;
- //   });
- //   jQuery("body").on("click",function(){
- //       $(".popover-markup").popover("hide"); //hide all popovers when clicked on body
- //   });
+
 });
-
-// card flip
-//$(".flip").hover(function(){
-//    $(".card").toggleClass("flipped");
-//    return false;
-//});
-
-    // setInterval(function(){
-    //     $("#card1").toggleClass("flipped").done(function(){
-    //         $("card2").toggleClass("flipped").done(function(){
-    //             $("card3").toggleClass("flipped").done()
-    //         })
-    //     })
-    // }, 15000);
-
 

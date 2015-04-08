@@ -1388,8 +1388,8 @@ pre code {
   overflow-y: scroll;
 }
 .container {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 7px;
+  padding-left: 7px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -1409,7 +1409,7 @@ pre code {
   }
 }
 .container-fluid {
-  padding-right: 15px;
+  padding-right: 1px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
