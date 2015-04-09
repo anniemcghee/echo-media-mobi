@@ -547,3 +547,7 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
+.fa-fw {
+    height: 18px;
+    width: 18px;
+}
