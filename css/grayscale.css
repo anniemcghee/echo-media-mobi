@@ -500,7 +500,7 @@ ul.banner-social-buttons {
     ul.banner-social-buttons li {
         display: inline;
         margin-bottom: 20px;
-        padding: 0;
+        padding: 2px;
     }
 
     ul.banner-social-buttons li:last-child {
@@ -547,7 +547,8 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
-.fa-fw {
-    height: 18px;
-    width: 18px;
+.fa-lg:hover {
+    color:#00A4A0;
 }
+
+
